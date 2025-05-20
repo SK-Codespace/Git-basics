@@ -1,0 +1,8 @@
+# Initialize
+git init
+
+# Staging
+git add filename
+
+# Commit
+git commit -m "commit message"
