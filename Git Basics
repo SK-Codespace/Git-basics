@@ -6,3 +6,9 @@ git add filename
 
 # Commit
 git commit -m "commit message"
+
+# Status check
+git status
+
+# History of commits
+git log
